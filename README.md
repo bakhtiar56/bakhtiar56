@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bakhtiar Rasheed
-- 👀 I’m interested in Web development, learning new programming languages and Data Science in python. Apart from that, I also like to walk/run in the morning/evening.
-- 🌱 I’m currently learning MERN stack, perl 5 and python.
+- 👀 I’m interested in software development and machine Learning in python. Apart from that, I also like to walk/run in the morning/evening.
+- 🌱 I’m currently developing MERN stack applications, and getting hands-on experience with ML tools and techniques. 
 - 📫 How to reach me: email:bakhtiar.baloch55@hotmail.com 
                        
 
